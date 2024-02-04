@@ -1,0 +1,10 @@
+name: cd4_erp104512_visualizer
+title:
+username: bernardochombo-alvarez
+account: bernardochombo-alvarez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11125973
+bundleId:
+url: https://bernardochombo-alvarez.shinyapps.io/cd4_erp104512_visualizer/
+version: 1
